@@ -41,7 +41,7 @@
     "Fantasy Novels",
     "My Cat BMO"
   ],
-  "homepage": "https://github.com/fern-d3v",
+  "homepage": "[fern-d3v](https://fernd3v.vercel.app/)",
   "repository": {
     "type": "git",
     "url": "https://github.com/fern-d3v"
