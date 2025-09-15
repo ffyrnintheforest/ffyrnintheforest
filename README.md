@@ -58,9 +58,9 @@ $ now-playing
 ```
 
 ## `Next Languages`
-- ![TypeScript]
-- Python
-- Rust
+![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=CE422B)
 
 ---
 
