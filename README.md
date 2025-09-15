@@ -9,6 +9,7 @@
 ```json
 {
   "name": "fern-dev",
+  "pronouns": "they/them",
   "version": "1.0.0",
   "description": "Full-Stack Developer with a passion for CLI tools and web development",
   "main": "code.js",
