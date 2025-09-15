@@ -4,6 +4,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&letterSpacing=0.10em&pause=1000&color=E990B9&width=525&lines=Rhyn+(fern_d3v);Full-Stack+Dev+%2F+Command+line+enthusiast;Building+modern+web+apps+and+CLI+tools" alt="Typing SVG" /></a>
 </div>
 
+---
+
+## `Connect With Me`
+<p align="left">
+  <a href="https://twitter.com/fern_d3v" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/rhyn-hilt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://dev.to/fern_d3v" target="_blank"><img src="https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV"></a>
+</p>
+
 ## `About Me`
 
 ```json
@@ -32,8 +41,6 @@
 ## `Tech Stack`
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -50,12 +57,10 @@ $ now-playing
 > Building a daily dev warmup CLI tool
 ```
 
-## `Connect With Me`
-<p align="left">
-  <a href="https://twitter.com/fern_d3v" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/rhyn-hilt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://dev.to/fern_d3v" target="_blank"><img src="https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV"></a>
-</p>
+## `Next Languages`
+- ![TypeScript]
+- Python
+- Rust
 
 ---
 
