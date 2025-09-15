@@ -8,29 +8,10 @@
 
 ```json
 {
-  "name": "fern-dev",
+  "name": "fern_dev",
   "pronouns": "they/them",
-  "version": "1.0.0",
   "description": "Full-Stack Developer with a passion for CLI tools and web development",
-  "main": "code.js",
-  "scripts": {
-    "code": "clean",
-    "debug": "fix bugs before they happen",
-    "deploy": "ship working software to production",
-    "coffee": "refill && continue coding"
-  },
-  "dependencies": {
-    "javascript": "^ES2022",
-    "typescript": "^5.0.0",
-    "react": "^18.0.0",
-    "node": "^18.0.0",
-    "terminal-magic": "^2.0.0"
-  },
-  "devDependencies": {
-    "coffee": "^999.999.999",
-    "creativity": "^∞",
-    "persistence": "^100.0.0"
-  },
+},
   "interests": [
     "Web Development",
     "CLI Tools",
@@ -45,9 +26,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/fern-d3v"
-  },
-  "private": false
-}
+  }
 ```
 
 ## `Tech Stack`
