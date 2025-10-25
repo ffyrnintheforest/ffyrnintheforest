@@ -1,7 +1,7 @@
 # `fern-d3v@github: $ `
 
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Departure+Mono&size=21&pause=1000&color=FFB86C&multiline=true&width=625&height=110&lines=rhyn+(fern_d3v);full-stack-developer;building+developer+tools+and+CLI+applications" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Departure+Mono&size=21&pause=1000&color=FFB86C&multiline=true&width=625&height=110&lines=rhyn+(fern_d3v);software+engineer;building+developer+tools+and+CLI+applications" alt="Typing SVG" /></a>
 </div>
 <br>
 
@@ -25,8 +25,7 @@
 {
   "name": "fern_dev",
   "pronouns": "they/them",
-  "description": "Full-Stack Developer with a passion for CLI tools and web development",
-},
+  "description": "Software Engineer specializing in developer tools and CLI applications"},
   "interests": [
     "Web Development",
     "CLI Tools",
@@ -43,6 +42,14 @@
     "url": "https://github.com/fern-d3v"
   }
 ```
+<br>
+
+## `Shipped`
+**[devkatacli](https://www.npmjs.com/package/devkatacli)** - Terminal-based developer practice routine
+![npm](https://img.shields.io/npm/dt/devkatacli?style=flat-square&label=downloads&color=FFB86C)
+
+**[Dev.to Articles](https://dev.to/fern_d3v)** - Writing about developer tools and CLI development
+
 <br>
 
 ## `Tech Stack`
@@ -63,17 +70,17 @@
 <br>
 
 ## `Featured Projects`
+- [**devkatacli**](https://github.com/fern-d3v/devKataCLI) - Terminal-based developer practice routine (📦 Published on npm)
 - [**terminal-portfolio**](https://github.com/fern-d3v/terminal-portfolio) - A terminal-style web portfolio
 - [**tidy-downloads**](https://github.com/fern-d3v/tidy-downloads) - CLI tool to organize your downloads folder
 - [**shadesmar-cli**](https://github.com/fern-d3v/shadesmar-cli) - Command line interface choose your own adventure game
-- [**console-log**](https://github.com/fern-d3v/console-log) - Personal developer journal
 
 <br>
 
 ## `Current Focus`
 ```bash
 $ now-playing
-> Building NekkoScript
+>  Building NekkoScript | Published devKataCLI to npm | Learning Python
 ```
 
 <br>
