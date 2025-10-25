@@ -1,8 +1,12 @@
 # ```fern-d3v@github: $ ```
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&letterSpacing=0.10em&pause=1000&color=E990B9&width=525&lines=Rhyn+(fern_d3v);Full-Stack+Dev+%2F+Command+line+enthusiast;Building+modern+web+apps+and+CLI+tools" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Departure+Mono&size=33&pause=1000&color=FFB86C&multiline=true&width=420&height=69&lines=rhyn+(fern_d3v);full-stack-dev;building+developer+tools+and+CLI+applications" alt="Typing SVG" /></a>
+</div>  
+
+<br>
+<br>
+<br>
 
 ---
 
