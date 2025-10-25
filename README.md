@@ -31,7 +31,7 @@
     "Fantasy Novels",
     "My Cat BMO"
   ],
-  "homepage": "[fern-d3v](https://fernd3v.vercel.app/)",
+  "homepage": "https://fernd3v.vercel.app/",
   "repository": {
     "type": "git",
     "url": "https://github.com/fern-d3v"
@@ -42,6 +42,14 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=fbf0df)
+
+<br>
+
+![Python](https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+<br>
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -54,12 +62,11 @@
 ## `Current Focus`
 ```bash
 $ now-playing
-> Building a daily dev warmup CLI tool
+> Building NekkoScript
 ```
 
 ## `Next Languages`
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=CE422B)
 
 ---
