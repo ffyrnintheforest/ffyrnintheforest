@@ -25,7 +25,8 @@
 {
   "name": "fern_dev",
   "pronouns": "they/them",
-  "description": "Software Engineer specializing in developer tools and CLI applications"},
+  "description": "Software Engineer specializing in developer tools and CLI applications",
+},
   "interests": [
     "Web Development",
     "CLI Tools",
