@@ -1,15 +1,12 @@
 # `fern-d3v@github: $ `
-
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Departure+Mono&size=21&pause=1000&color=FFB86C&multiline=true&width=625&height=110&lines=rhyn+(fern_d3v);software+engineer;building+developer+tools+and+CLI+applications" alt="Typing SVG" /></a>
 </div>
-<br>
 
 ## `Currently`
   - Building developer productivity tools
   - Learning Python for systems programming
   - Contributing to open source CLI projects
-<br>
 
 ## `Connect With Me`
 <p align="left">
@@ -17,7 +14,6 @@
   <a href="https://linkedin.com/in/rhyn-hilt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dev.to/fern_d3v" target="_blank"><img src="https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV"></a>
 </p>
-<br>
 
 ## `About Me`
 
