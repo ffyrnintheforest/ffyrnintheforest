@@ -13,7 +13,7 @@
   <a href="https://twitter.com/fern_d3v" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://linkedin.com/in/rhyn-hilt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dev.to/fern_d3v" target="_blank"><img src="https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV"></a>
-  <a href="https://f3rn.dev/" target="_blank"><img src="https://img.shields.io/badge/-Website-24292e?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
+  <a href="https://f3rn.dev/" target="_blank"><img src="https://img.shields.io/badge/-f3rn.dev-24292e?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
 </p>
 
 ## `About Me`
