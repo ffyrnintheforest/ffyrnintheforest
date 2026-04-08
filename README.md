@@ -4,8 +4,7 @@
 </div>
 
 ## `Currently`
-  - Building developer productivity tools
-  - Learning Python for systems programming
+  - studying cs
   - Contributing to open source CLI projects
 
 ## `Connect With Me`
@@ -22,7 +21,7 @@
 {
   "name": "fern_dev",
   "pronouns": "they/them",
-  "description": "Software Engineer specializing in developer tools and CLI applications",
+  "description": "open_sourcerer specializing in developer tools and CLI applications",
 },
   "interests": [
     "Web Development",
