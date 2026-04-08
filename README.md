@@ -21,7 +21,7 @@
 {
   "name": "fern_dev",
   "pronouns": "they/them",
-  "description": "open_sourcerer specializing in developer tools and CLI applications",
+  "description": "open_sourcerer studying cs and drinking coffee"
 },
   "interests": [
     "Web Development",
