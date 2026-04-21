@@ -1,4 +1,4 @@
-# `fern-d3v@github: $ `
+# `ffyrnintheforest@github: $ `
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Departure+Mono&size=21&pause=1000&color=FFB86C&multiline=true&width=625&height=110&lines=rhyn+(fern_d3v);softwa[...]
 </div>
@@ -19,14 +19,13 @@
 
 ```json
 {
-  "name": "fern_dev",
+  "name": "ffyrn",
   "pronouns": "they/them",
   "description": "open_sourcerer; studying cs and drinking coffee"
 },
   "interests": [
-    "Web Development",
-    "CLI Tools",
-    "Developer Experience",
+    "Programming Languages",
+    "Operating Systems",
     "Open Source",
     "Terminal Customization",
     "Souls Video Games",
@@ -36,7 +35,7 @@
   "homepage": "f3rn.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fern-d3v"
+    "url": "https://github.com/ffyrnintheforest"
   }
 ```
 <br>
@@ -56,10 +55,6 @@
 ![Bun](https://img.shields.io/badge/-Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=fbf0df)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-<br>
-
-![Python](https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 <br>
 
@@ -85,8 +80,9 @@ $ now-playing
 <br>
 
 ## `Next Languages`
-![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=CE422B)
+![Python](https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=CE422B)
+![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat-square&logo=cplusplus&logoColor=00599C)
 
 <br>
 
@@ -97,7 +93,7 @@ $ now-playing
 <br>
 
 <div>
-  <a href="https://github.com/fern-d3v">
+  <a href="https://github.com/ffyrnintheforest">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fern-d3v&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
