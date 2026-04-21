@@ -3,11 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Departure+Mono&size=21&pause=1000&color=FFB86C&multiline=true&width=625&height=110&lines=rhyn+(fern_d3v);softwa[...]
 </div>
 
-## `Currently`
+<h2 style="color: #ef9f76;">Currently</h2>
   - studying cs
   - Contributing to open source CLI projects
 
-## `Connect With Me`
+<h2 style="color: #ef9f76;">Connect With Me</h2>
 <p align="left">
   <a href="https://twitter.com/fern_d3v" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://linkedin.com/in/rhyn-hilt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -15,7 +15,7 @@
   <a href="https://f3rn.dev/" target="_blank"><img src="https://img.shields.io/badge/-f3rn.dev-ca9ee6?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
 </p>
 
-## `About Me`
+<h2 style="color: #ef9f76;">About Me</h2>
 
 ```json
 {
@@ -40,7 +40,7 @@
 ```
 <br>
 
-## `Shipped`
+<h2 style="color: #ef9f76;">Shipped</h2>
 **[devkatacli](https://www.npmjs.com/package/devkatacli)** - Terminal-based developer practice routine
 ![npm](https://img.shields.io/npm/dt/devkatacli?style=flat-square&label=downloads&color=FFB86C)
 
@@ -48,8 +48,9 @@
 
 <br>
 
-## `Tech Stack`
+<h2 style="color: #ef9f76;">Tech Stack</h2>
 
+<h3 style="color: #babbf1;">Previous</h3>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-%23000000.svg?style=flat-square&logo=bun&logoColor=fbf0df)
@@ -58,12 +59,16 @@
 
 <br>
 
+<h3 style="color: #babbf1;">Current</h3>
+> check back soon for an update!
+<br>
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 <br>
 
-## `Featured Projects`
+<h2 style="color: #ef9f76;">Featured Projects</h2>
 - [**devkatacli**](https://github.com/fern-d3v/devKataCLI) - Terminal-based developer practice routine (📦 Published on npm)
 - [**terminal-portfolio**](https://github.com/fern-d3v/terminal-portfolio) - A terminal-style web portfolio
 - [**tidy-downloads**](https://github.com/fern-d3v/tidy-downloads) - CLI tool to organize your downloads folder
@@ -71,15 +76,15 @@
 
 <br>
 
-## `Current Focus`
+<h2 style="color: #ef9f76;">Current Focus</h2>
 ```bash
 $ now-playing
->  Building NekkoScript | Published devKataCLI to npm | Learning Python
+>  Studying CS | Published devKataCLI to npm | Learning Python && Rust
 ```
 
 <br>
 
-## `Next Languages`
+<h2 style="color: #ef9f76;">Next Languages</h2>
 ![Python](https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=CE422B)
 ![C++](https://img.shields.io/badge/-C++-FFFFFF?style=flat-square&logo=cplusplus&logoColor=00599C)
@@ -94,6 +99,6 @@ $ now-playing
 
 <div>
   <a href="https://github.com/ffyrnintheforest">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fern-d3v&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffyrnintheforest&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
