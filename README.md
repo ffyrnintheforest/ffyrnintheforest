@@ -1,6 +1,6 @@
 # `ffyrnintheforest@github: $`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Departure+Mono&size=21&pause=1000&color=FFB86C&multiline=true&width=625&height=110&lines=rhyn+(fern_d3v);software+engineer;open+sourcerer" alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Departure+Mono&size=21&pause=1000&color=FFB86C&multiline=true&width=625&height=110&lines=ffyrn+(ffyrnintheforest);cs_student;open_sourcerer" alt="Typing SVG"></a>
 
 ## `Currently`
 
