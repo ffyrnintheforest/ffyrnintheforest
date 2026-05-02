@@ -9,9 +9,9 @@
 
 ## `Connect With Me`
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fern_d3v)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ffyrn_codes)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhyn-hilt)
-[![DEV](https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fern_d3v)
+[![DEV](https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ffyrnintheforest)
 [![Website](https://img.shields.io/badge/-f3rn.dev-ca9ee6?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://f3rn.dev/)
 
 ## `About Me`
