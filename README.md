@@ -4,13 +4,13 @@
 
 ## `Currently`
 
-- studying cs
-- contributing to open source CLI projects
+- self-studying cs as a hobbyist
+- figuring this all out
+- disliking ai <3
 
 ## `Connect With Me`
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ffyrn_codes)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rhyn-hilt)
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/ffyrnintheforest)
 [![My Skills](https://skillicons.dev/icons?i=vercel)](https://ffyrn.dev/)
 
@@ -51,11 +51,10 @@
 
 ### `Current`
 
-[![My Skills](https://skillicons.dev/icons?i=go,git,github,bash,md,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,md)](https://skillicons.dev)
 
 ## `Featured Projects`
 
-- [**runa**](https://github.com/ffyrnintheforest/runa) - A personal library in your terminal
 - [**terminal-portfolio**](https://github.com/ffyrnintheforest/terminal-portfolio) — A terminal-style web portfolio
 - [**tidy-downloads**](https://github.com/ffyrnintheforest/tidy-downloads) — CLI tool to organize your downloads folder
 
@@ -63,12 +62,12 @@
 
 ```bash
 $ now-playing
->  Studying CS | writing CLI tools | Learning Go
+>  Studying CS | writing CLI tools
 ```
 
 ## `Next Languages`
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,lua,vim)](https://skillicons.dev)
 
 ---
 
